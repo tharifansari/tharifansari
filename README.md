@@ -3,12 +3,11 @@ Hi There! 👋, I am Tharif Ansari :full_moon_with_face:
 Currently working as a Product Engineer (Full Stack) at [<img src="https://media.licdn.com/dms/image/C4D0BAQGAVnBTjW6Gjw/company-logo_200_200/0/1659696444487/deltax_logo?e=1728518400&amp;v=beta&amp;t=d8TCxVFByXaA5KMNQSYSOUgRq3B3a6g4HI0GZ1zm16U" alt="DeltaX logo" width="30"/>](https://deltax.com/) .
 
 I'm a passionate Full Stack Developer with a strong foundation in both front-end and back-end development. A few points that I would like to mention about my current role at DeltaX.
-- Knowledgeable about both frontend & backend development best practices.
-- Create and monitor microservices.
-- Proven track record of building new and impactful features on time.
-- Skilled in developing and testing a product.
-- Take interviews as part of campus hiring.
-- Mentor Interns during bootcamp. 
+- Experienced in both frontend and backend development best practices.
+- Develop and oversee microservices.
+- Consistently delivered impactful features.
+- Skilled in developing and thoroughly testing products.
+- Conduct interviews for campus recruitment and mentor interns during bootcamps.
 
 Skills used in my current role 
 
