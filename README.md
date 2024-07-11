@@ -20,7 +20,7 @@ Skills used in my current role
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 ##### Resume: 👉 
-- [GDrive](https://drive.google.com/file/d/1FC0lN80oRwPNltqhWqW0ZwnbJsQWUGxh)
+- [GDrive](https://drive.google.com/file/d/1Wp4rOEFbFwEjpQdcpX3v4Z0aorEsW0W5/view)
 
 ##### My Profiles: :point_right:  
 <!-- [My Portfolio Website](https://--) !-->
